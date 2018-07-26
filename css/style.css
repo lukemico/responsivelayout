@@ -10,6 +10,7 @@
 --------------------------------------------------------------------------*/
 
 
+
 /*--------------------------------------------------------------------------
 	1. Body
 --------------------------------------------------------------------------*/
@@ -114,7 +115,6 @@ h6 	{ font-family: 'Source Sans Pro', sans-serif;	 }
 .paragraph {
 	width: 100%;
 	margin-top: 0;
-	font-size: 1.2em;
 	}
 	
 .column-one { 
@@ -135,7 +135,7 @@ h6 	{ font-family: 'Source Sans Pro', sans-serif;	 }
 	}
 	
 .illustration {
-	width:83%;
+	width:50%;
 	}	
 }
 
@@ -185,7 +185,7 @@ body {
 	}
 	
 .illustration {
-	width:83%;
+	width:60%;
 	}	
 }
 
