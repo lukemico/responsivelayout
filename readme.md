@@ -70,8 +70,3 @@ Using Python SimpleServer -
 	Luke Mico
 	
 	
-<<<<<<< HEAD
-	
-=======
-	
->>>>>>> 3f704a7a51ffaddb18b39a9fc5a0c1f69f5dc109
