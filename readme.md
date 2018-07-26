@@ -1,6 +1,6 @@
-Responsive Layout
+### Responsive Layout
 
-Task
+### Task
 Create a responsive HTML project that matches the desktop and mobile designs attached to this assignment.
 
 All the required assets - design jpg, design psd, font, images ...etc have been supplied with this assignment.
@@ -17,15 +17,15 @@ The priority of the build will be as following:
 + Images required for this build is in /Assets/slices folder# responsivelayout
 
 
-Getting Started
+### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 
-Prerequisites
+### Prerequisites
 	Python - install Python - Go to python.org
 
 
-Installing
+### Installing
 * Using Python SimpleServer -         
 	
 	- To start a HTTP server on port 8000 (default port), type:
@@ -51,20 +51,20 @@ Installing
 		http://127.0.0.1:8000
 
 
-Deployment
+### Deployment
 Live version can be found here -  
 
 	* https://test-responsive-layout.herokuapp.com/ 
 
 		
-Built With
+### Built With
 * HTML - markup
 * CSS - Used to CSS Grid + styling 
 
 
-Versioning
+### Versioning
 I used Git for versioning. For the versions available, see the tags on this repository.
 
-Author/s
+### Author/s
 Luke Mico
 
